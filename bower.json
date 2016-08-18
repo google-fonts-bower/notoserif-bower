@@ -1,0 +1,17 @@
+{
+    "name": "notoserif-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Google"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/notoserif-bower.git"
+    },
+    "description": "Noto Serif font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
